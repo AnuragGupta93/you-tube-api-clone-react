@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+# youTube-api-clone-react
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A youTube api clone based on super fast react technology
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+Its a two step process.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+####Step 1: Downloading or Cloning the project
 
+Simply download the zip folder or clone on github using
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> cd ReduxSimpleStarter 
+```
+
+####Step 2: Installing all required modules and start the server
+```
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### On the Web
 
-```
-> npm install
-> npm start
-```
+Listen the web on port: localhost/8080
