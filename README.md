@@ -6,7 +6,7 @@ A youTube api clone based on super fast react technology
 
 Its a two step process.
 
-####Step 1: Downloading or Cloning the project
+##### Step 1: Downloading or Cloning the project
 
 Simply download the zip folder or clone on github using
 ```
@@ -14,7 +14,7 @@ Simply download the zip folder or clone on github using
 > cd ReduxSimpleStarter 
 ```
 
-####Step 2: Installing all required modules and start the server
+#### Step 2: Installing all required modules and start the server
 ```
 > npm install
 > npm start
