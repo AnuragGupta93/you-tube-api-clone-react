@@ -10,7 +10,7 @@ Its a two step process.
 
 Simply download the zip folder or clone on github using
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/AnuragGupta93/you-tube-api-clone-react.git
 > cd ReduxSimpleStarter 
 ```
 
