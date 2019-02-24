@@ -11,7 +11,7 @@ Its a two step process.
 Simply download the zip folder or clone on github using
 ```
 > git clone https://github.com/AnuragGupta93/you-tube-api-clone-react.git
-> cd ReduxSimpleStarter 
+> cd you-tube-api-clone-react
 ```
 
 #### Step 2: Installing all required modules and start the server
